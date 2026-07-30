@@ -1,3 +1,4 @@
+
 name: Deploy to nekoweb
 
 # only run on changes to main
@@ -17,4 +18,4 @@ jobs:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
           nekoweb-domain: 'ebicthings.nekoweb.org'
           nekoweb-username: 'ebicthings'
-          directory: 'public'
+          directory: '_site'
