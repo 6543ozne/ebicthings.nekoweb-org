@@ -1,0 +1,20 @@
+name: Deploy to nekoweb
+
+# only run on changes to main
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - name: deploy2nekoweb
+        uses: indiefellas/deploy2nekoweb@main
+        with:
+          nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
+          nekoweb-domain: 'ebicthings.nekoweb.org'
+          nekoweb-username: 'ebicthings'
+          directory: 'public'
