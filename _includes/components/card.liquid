@@ -1,0 +1,13 @@
+<div class="card">
+  {% if image %}
+    <img src="{{ image }}" alt="{{ imageAlt | default: title }}" class="card__image">
+  {% endif %}
+  
+  {% if title %}
+    <h3 class="card__title">{{ title }}</h3>
+  {% endif %}
+  
+  {% if description %}
+    <p class="card__description">{{ description }}</p>
+  {% endif %}
+</div>
