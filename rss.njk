@@ -26,12 +26,12 @@
   </author>
   {%- for post in collections.post | reverse %}
   {%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.base) }}{% endset %}
-  <entry>
+  <item>
   <title>{{ post.data.title }}</title>
   <link>{{ absolutePostUrl }}</link>
   <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
   <pubdate>{{ post.date | dateToRfc822 }}</pubdate>
   <guid isPermaLink="true">{{ absolutePostUrl }}</guid>
-  </entry>
+  </item>
   {%- endfor %}
 </feed>

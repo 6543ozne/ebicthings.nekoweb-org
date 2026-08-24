@@ -4,17 +4,17 @@
   <subtitle>Blog about my thoughts and stuff</subtitle>
   <link href="https://ebicthings.nekoweb.org/rss.xml" rel="self" />
   <link href="https://ebicthings.nekoweb.org/posts/" />
-  <updated>2026-08-24T03:23:09Z</updated>
+  <updated>2026-08-24T03:24:51Z</updated>
   <id>https://ebicthings.nekoweb.org/posts/</id>
   <author>
     <name>ebicthings</name>
   </author>
-  <entry>
+  <item>
   <title>First post!</title>
   <link>https://ebicthings.nekoweb.org/posts/post1/</link>
   <description>&lt;p&gt;Hi this is a test for my first post! Idk how this rss stuff works but i hope it does!&lt;/p&gt;
 </description>
   <pubdate>Mon, 24 Aug 2026 09:19:38 +0800</pubdate>
   <guid isPermaLink="true">https://ebicthings.nekoweb.org/posts/post1/</guid>
-  </entry>
+  </item>
 </feed>
