@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  
+  <title>Ebicthings blog</title>
+  <subtitle>blog for my thoughts and stuff</subtitle>
+  <link href="https://ebicthings.nekoweb.org/rss.xml" rel="self" />
+  <link href="https://ebicthings.nekoweb.org/posts" />
+  <updated>2026-08-24T01:19:38Z</updated>
+  <id>https://ebicthings.nekoweb.org/posts</id>
+  <author>
+    <name>ebicthings</name>
+  </author>
+  <entry>
+    <title>First post!</title>
+    <link href="https://ebicthings.nekoweb.org/posts/post1/" />
+    <updated>2026-08-24T01:19:38Z</updated>
+    <id>https://ebicthings.nekoweb.org/posts/post1/</id>
+    <content type="html">&lt;p&gt;Hi this is a test for my first post! Idk how this rss stuff works but i hope it does!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
