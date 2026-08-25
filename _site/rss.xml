@@ -1,20 +1,17 @@
+
 <rss version="2.0">
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>My blog</title>
-  <subtitle>Blog about my thoughts and stuff</subtitle>
-  <link href="https://ebicthings.nekoweb.org/rss.xml" rel="self" />
-  <link href="https://ebicthings.nekoweb.org/posts/" />
-  <updated>2026-08-25T04:21:31Z</updated>
-  <id>https://ebicthings.nekoweb.org/posts/</id>
-  <author>
-    <name>ebicthings</name>
-  </author>
-  <item>
-  <title>First post!</title>
-  <link>https://ebicthings.nekoweb.org/posts/post1/</link>
-  <description>&lt;p&gt;Hi this is a test for my first post! Idk how this rss stuff works but i hope it does!&lt;/p&gt;
+    <channel>
+        <title>My blog</title>
+        <description>Blog about my thoughts and stuff</description>
+        <link>https://ebicthings.nekoweb.org/rss.xml</link>
+        <item>
+            <title>First post!</title>
+            <description>&lt;p&gt;Hi this is a test for my first post! Idk how this rss stuff works but i hope it does!&lt;/p&gt;
 </description>
-  <pubdate>Mon, 24 Aug 2026 09:19:38 +0800</pubdate>
-  <guid isPermaLink="true">https://ebicthings.nekoweb.org/posts/post1/</guid>
-  </item>
-</feed>
+            <link>https://ebicthings.nekoweb.org/posts/post1/</link>
+            <guid>post1</guid>
+            <pubDate> Mon, 24 Aug 2026 09:19:38 +0800 </pubDate>
+        </item>
+    </channel>
+</rss>
+                   
