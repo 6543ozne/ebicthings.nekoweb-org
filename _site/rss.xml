@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>My blog</title>
   <subtitle>Blog about my thoughts and stuff</subtitle>
   <link href="https://ebicthings.nekoweb.org/rss.xml" rel="self" />
   <link href="https://ebicthings.nekoweb.org/posts/" />
-  <updated>2026-08-24T03:24:51Z</updated>
+  <updated>2026-08-25T04:21:31Z</updated>
   <id>https://ebicthings.nekoweb.org/posts/</id>
   <author>
     <name>ebicthings</name>
