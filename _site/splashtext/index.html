@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://widget.st/js/iframe.js"></script>
+</head>
+<body>
+    <div class="splashtext">
+    <style>
+        :root{
+            --xoffset: 0px;
+            --yoffset: 0px;
+            --rotate: -5deg;
+        }
+        #splash{
+        text-align: center;
+        max-width: 323px; height: 100%;
+        color: #ffc31f;
+        transform:  translate(var(--xoffset),var(--yoffset)) rotate(var(--rotate));
+        animation: splash 2s linear infinite;
+        }
+
+        @keyframes splash {
+        0% { transform:  translate(var(--xoffset),var(--yoffset)) rotate(var(--rotate)) scale(110%); }
+        50% { transform: translate(var(--xoffset),var(--yoffset)) rotate(var(--rotate)) scale(100%); }
+        100% { transform:  translate(var(--xoffset),var(--yoffset)) rotate(var(--rotate)) scale(110%); }
+        }
+    </style>
+    <p id="splash">blah blah</p>
+    <script>
+        Array.prototype.random = function () {
+            return this[Math.floor((Math.random() * this.length))];
+        }
+        const titles = ["W Tammy goons",
+            "Better than the neocities version!",
+            "READ MYTHLITE PLEASE",
+            "Sign my guestbook!",
+            "DIE",
+            "What's git?",
+            "Bonelab is the best game ever",
+            " Not trying to scare you but there’s a camera and microphone IN THIS DEVICE, THERES A CAMERA AND MICROPHONE IN THIS DEVICE",
+            ":33<AC pounces on you"]; //the list of titles
+        document.getElementById('splash').textContent = titles.random()
+    </script>
+    </div>
+        
+</body>
+</html>
