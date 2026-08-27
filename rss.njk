@@ -24,7 +24,7 @@
         {%- set absolutePostUrl %}{{ post.url | htmlBaseUrl(metadata.base) }}{% endset %}
         <item>
             <title>{{ post.data.title }}</title>
-            <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</description>
+            <description>{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) | truncate(150)}}</description>
             <link>{{ absolutePostUrl }}</link>
             <guid>{{ post.fileSlug }}</guid>
             <pubDate> {{ post.date | dateToRfc822 }} </pubDate>
