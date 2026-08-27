@@ -6,9 +6,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("BitcountPropDouble-Regular.ttf");
   eleventyConfig.addPassthroughCopy("gallery-grid.css");
   eleventyConfig.addPassthroughCopy("gallery-grid.js");
-  eleventyConfig.addPassthroughCopy("Pictures");
-
-  
+  eleventyConfig.addPassthroughCopy("Pictures");  
   eleventyConfig.addPlugin(pluginRss);
   
 };
