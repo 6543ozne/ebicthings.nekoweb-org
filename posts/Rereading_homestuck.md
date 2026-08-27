@@ -4,7 +4,7 @@ title: Rereading homestuck (Part 1 of ???)
 
 ## (SPOILERS FOR HOMESTUCK, OBVIOUSLY)
 
-Homestuck is a webcomic by gay racist pedophile Andrew Hussie about 4 kids who play a video game that destroys the world. It launched about a month before I was born, and has gained a massive cult following since then.  
+Homestuck is a webcomic by a guy I hate named Andrew Hussie about 4 kids who play a video game that destroys the world. It launched about a month before I was born, and has gained a massive cult following since then.  
 
 ![A flock of homestuck fans, mostly karkat cosplays but i can see a tavros](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRua4hCCo8OWTmMkW74OAh28mkLs11CPHfE88Gd-SIhpGolf5PgAXf9nMX&s=10)
 
