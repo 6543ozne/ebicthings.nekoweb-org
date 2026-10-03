@@ -4,20 +4,20 @@
         <description>Blog about my thoughts and stuff</description>
         <link>https://ebicthings.nekoweb.org/rss.xml</link>
         <item>
-            <title>Rereading homestuck (Part 1 of ???)</title>
-            <description>&lt;h2&gt;(SPOILERS FOR HOMESTUCK, OBVIOUSLY)&lt;/h2&gt;
-&lt;p&gt;Homestuck is a webcomic by a guy I hate named Andrew Hussie about 4 kids who play a video game that...</description>
-            <link>https://ebicthings.nekoweb.org/posts/Rereading_homestuck/</link>
-            <guid>Rereading_homestuck</guid>
-            <pubDate> Thu, 27 Aug 2026 08:24:18 +0800 </pubDate>
-        </item>
-        <item>
             <title>First post!</title>
             <description>&lt;p&gt;Hi this is a test for my first post! Idk how this rss stuff works but i hope it does!&lt;/p&gt;
 </description>
             <link>https://ebicthings.nekoweb.org/posts/post1/</link>
             <guid>post1</guid>
-            <pubDate> Mon, 24 Aug 2026 09:19:38 +0800 </pubDate>
+            <pubDate> Sat, 03 Oct 2026 11:58:06 +0800 </pubDate>
+        </item>
+        <item>
+            <title>Rereading homestuck (Part 1 of ???)</title>
+            <description>&lt;h2&gt;(SPOILERS FOR HOMESTUCK, OBVIOUSLY)&lt;/h2&gt;
+&lt;p&gt;Homestuck is a webcomic by a guy I hate named Andrew Hussie about 4 kids who play a video game that...</description>
+            <link>https://ebicthings.nekoweb.org/posts/Rereading_homestuck/</link>
+            <guid>Rereading_homestuck</guid>
+            <pubDate> Sat, 03 Oct 2026 11:58:06 +0800 </pubDate>
         </item>
     </channel>
 </rss>
